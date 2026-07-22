@@ -260,3 +260,6 @@ EC2 Management:
 Menampilkan status Instance (Running, Stopped, dsb.) beserta Public IP dan Type.
 
 Kontrol cepat untuk menyalakan (Start) atau mematikan (Stop) Instance.
+Di Buat :
+Muhammad Khoirul Anam
+32602500059
